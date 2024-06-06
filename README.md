@@ -2,6 +2,8 @@
 
 Below is a list of of bookmarklets that might be useful for SEO purposes...
 
+For more of my SEO work, visit [https://rkseo.xyz](https://rkseo.xyz)
+
 ## What Is A Bookmarklet? And how to use this...
 A bookmarklet is just a bit of javascript code that you can store as a bookmark in your browser. Whenever you click the bookmark, it executes the javascript code. 
 
